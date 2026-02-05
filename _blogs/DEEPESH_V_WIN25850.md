@@ -1,5 +1,5 @@
 ---
-title: "Fun with inter"
+title: "My Intern Experience"
 author: DEEPESH V
 vinternship_id: WIN25850
 ---
@@ -16,11 +16,12 @@ What surprised me most was how important consistency became. Not motivation. Not
 
 Working alongside others helped too. Everyone struggled in different ways, even if they didn’t always say it out loud. That made me less harsh on myself. I stopped comparing how fast I was learning and focused instead on whether I was learning honestly.
 
-By the end of this internship, I didn’t feel like an expert. I didn’t feel “finished.” But I felt more comfortable sitting with uncertainty. I felt more patient with my own learning process. I learned that growth doesn’t always announce itself. Sometimes it happens quietly, when nobody is watching.
+By the end of 3rd week, I didn’t feel like an expert. I didn’t feel “finished.” But I felt more comfortable sitting with uncertainty. I felt more patient with my own learning process. I learned that growth doesn’t always announce itself. Sometimes it happens quietly, when nobody is watching.
+
+Also I believe that the upcoming weeks will be challenging and enriching
 
 And maybe that’s the kind of learning that actually stays.
-
 ---
 
 Author: [DEEPESH V](https://www.linkedin.com/in/v-deepesh-10a089388/){:target="_blank"}
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/posts/v-deepesh-10a089388_when-this-internship-started-i-thought-learning-share-7424997632109928450-NlZM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF9oRVoB88xsnARojlzQBsIxpCKNEonpGo0){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/posts/v-deepesh-10a089388_my-blog-about-my-intern-experience-ugcPost-7425061068395208704-t_vy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF9oRVoB88xsnARojlzQBsIxpCKNEonpGo0){:target="_blank"}
